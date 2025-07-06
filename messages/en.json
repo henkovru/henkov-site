@@ -1,180 +1,46 @@
 {
   "Header": {
-    "description": "Web development studio for selling websites"
+    "description": "full-cycle digital agency"
   },
   "Button": {
     "button": "Contact us",
     "button2": "Get a free structure",
-    "button3": "Показать список",
-    "button4": "Свернуть список"
+    "button3": "Show list",
+    "button4": "Hide list"
   },
   "NavMenu": {
-    "home": "Main",
+    "home": "Home",
     "portfolio": "Portfolio",
-    "aboutStudio": "About studio",
-    "tgStudio": "Telegram",
-    "contacts": "Contacts"
+    "aboutStudio": "About",
+    "contacts": "Contacts",
+    "tgStudio": "Telegram"
   },
   "Main": {
-    "title": "Order a customized website that will pay off in the first month.",
-    "description": "Leave a request on the website now and get a free structure.",
+    "title": "Order a custom website that pays off in the first month",
+    "description": "Submit a request now and get a free structure",
     "button": "Get a free structure"
   },
   "Cards": {
-    "title1": "Online store",
-    "title2": "Multi-page website",
-    "title3": "Landing",
-    "title4": "Promo page",
-    "info1": "Website for brand clothing store",
-    "info2": "Website for a company of horror quests",
-    "info3": "Website development for car fetching",
-    "info4": "Italian trattoria website",
-    "info5": "Designer Clothing Website",
-    "info6": "Website for SMM-agency",
-    "info7": "Website for a confectionery",
-    "info8": "Development of a website for car tuning",
-    "info9": "Course on earning on marketplaces",
-    "info10": "Repair of apartments, houses, and offices",
-    "info11": "Course on working with the subconscious",
-    "info12": "Website for video surveillance system",
-    "button1": "Landing",
-    "button2": "Multi-page",
-    "button3": "Online store",
-    "button4": "Promo page",
+    "title1": "Online Store",
+    "title2": "Multipage Website",
+    "title3": "Landing Page",
+    "title4": "Business Card",
+    "info1": "Website for a branded clothing store",
+    "info2": "Website for a horror quest company",
+    "info3": "Car import website",
+    "info4": "Website for an Italian trattoria",
+    "info5": "Designer clothing website",
+    "info6": "SMM agency website",
+    "info7": "Confectionery website",
+    "info8": "Car import website",
+    "info9": "Marketplace earnings course",
+    "info10": "Apartment, house and office renovation",
+    "info11": "Subconscious work course",
+    "info12": "Video surveillance system website",
+    "button1": "Landing Page",
+    "button2": "Multipage",
+    "button3": "Online Store",
+    "button4": "Business Card",
     "button5": "All"
-  },
-  "Price": {
-    "header": "Price",
-    "headerInfo1": "Depending on the objectives and complexity of the project",
-    "headerInfo2": "HTML/CSS + JS, NextJS or ASPRO:",
-
-    "title1": "For large-sized projects with many pages of the same type (catalog, blog, news site)",
-    "title2": "Need complex database work",
-    "title3": "The Most Powerful SEO",
-    "title4": "Need a productive website",
-    "title5": "There are non-standard tasks for the site",
-    "title6": "If you want a web application",
-
-    "title7": "For medium-sized projects with similar pages (e.g., catalog or blog)",
-    "title8": "If there are specific requirements for CMS",
-    "title9": "Need a personal account",
-    "title10": "Need to set up additional sales to goods, implement purchases '3 in 1'",
-    "title11": "Other complex and non-standard tasks",
-
-    "title12": "For quick launch of small sites, stores, and landings",
-    "title13": "For express launch (within 3-7 days)",
-    "title14": "Ideal when you need a test of the industry",
-    "title15": "Suitable if you have a small budget",
-
-    "title16": "Promo page",
-    "price1": "From 400$",
-    "description1": "This is a site that consists of 1-3 blocks. Such a page is created for a separate product or service",
-
-    "title17": "Landing",
-    "price2": "From 1000$",
-    "description2": "A page for collecting leads or calling the user to a target action. For example, sign up for a webinar, consultation, or purchase a product",
-
-    "title18": "Online store",
-    "price3": "From 2000$",
-    "description3": "A site for selling products with a payment system, cart, delivery, and informing the seller about the order",
-
-    "title19": "Corporate site",
-    "price4": "From 2000$",
-    "description4": "A site with a more complex structure: several pages united by a menu or links on pages"
-  },
-  "Why": {
-    "title1": "Why",
-    "title2": "us?",
-
-    "description1": "We have payment for work, not for hours",
-    "description2": "Free corrections within 1 month after work",
-    "description3": "We help 24/7",
-    "description4": "We select a beneficial solution for you"
-  },
-  "Info": {
-    "headerLeft1": "Find a solution",
-    "headerLeft2": "for each",
-    "descriptionLeft1": "Customers come to us with a request:",
-    "descriptionLeft2": "«cheap landing» and «premium site» with non-standard, complex tasks",
-
-    "headerRight": "Work process",
-
-    "headerRight1": "Research and design",
-    "descriptionRight1": "We connect your business with the target audience, analyzing data and competitors, creating optimal solutions and project structure.",
-
-    "headerRight2": "Design",
-    "descriptionRight2": "We create a design for the future site, based on positioning and corporate style. If materials are missing, we offer our vision without increasing the budget.",
-
-    "headerRight3": "Development",
-
-    "headerRight4": "Launch",
-    "descriptionRight3": "Before launching, we conduct a final debugging of the site, set up metrics and analytics to track user actions.",
-    "descriptionRight4": "We will prepare a video instruction on how to use the site or train your specialist.",
-    "descriptionRight5": "After launch, we maintain contact with you and discuss further project development plans.",
-
-    "headerRight5": "Development",
-    "descriptionRight6": "We collaborate with your marketers and advertising agents, or help find new ones. We quickly make changes and improvements. We support you in analytics and answer your questions."
-  },
-
-  "Feedback": {
-    "title": "Free structure for your site",
-
-    "description1": "Please fill out the form, this will help us understand exactly which direction to move in",
-    "description2": "Or contact us in another way:",
-
-    "feedbackDescription1": "What is your name",
-    "feedbackDescription2": "Phone/WhatsApp/Telegram",
-    "feedbackDescription3": "I am interested in",
-    "feedbackDescription4": "Do you already have a project you're oriented towards/like?",
-
-    "feedbackButton1": "Web application",
-    "feedbackButton2": "Other",
-    "feedbackButton3": "Site",
-
-    "feedbackPlaceholder1": "Name",
-    "feedbackPlaceholder2": "Enter a link (optional)",
-
-    "privacyPolicy": "By clicking the button, I agree to the processing of personal data"
-  },
-
-  "Footer": {
-    "description": "web development studio",
-    "privacyPolicy": "Privacy Policy"
-  },
-
-  "AboutHeader": {
-    "title": "About the studio",
-    "description1": "Our team of experienced specialists works on creating selling and functional web solutions for various clients",
-    "description2": "We ensure full transparency at all stages of work, so you can be confident that your project is in good hands",
-    "description3": "We ensure full transparency at all stages of work, so you can be confident that your project is in good hands"
-  },
-
-  "AboutInfo": {
-    "title1": "Approach",
-    "title2": "Solutions",
-    "title3": "Flexibility",
-    "description1": "We thoroughly study the needs of each client and create unique solutions that meet their specific tasks and goals",
-    "description2": "We are not afraid to experiment and offer non-standard solutions to help you stand out in the market and achieve your goals",
-    "description3": "We are ready to quickly respond to market changes and adapt to new requirements to ensure the successful development of your project"
-  },
-
-  "AboutTeam": {
-    "title": "Team",
-    "description1": "We are a provider of high-quality, profitable, and selling solutions. Our team includes experienced copywriters, designers, developers, and marketers, SEO specialists.",
-    "description2": "We value our reputation and ensure full transparency at all stages of work, so you can be confident that your project is in good hands."
-  },
-
-  "Metadata": {
-    "title1": "Web Design Agency Henkov - Creating High-Converting Websites for Business Growth",
-    "titleOpenGraph1": "Henkov Web Studio - Creation and promotion of selling websites",
-    "description1": "Webstudio Henkov is a leading web design agency that specializes in creating effective, sales-driving websites for businesses looking to expand internationally. Our team of marketing-savvy designers and developers work closely with clients to build custom websites tailored to their unique goals and target audiences",
-    "descriptionOpenGraph1": "Henkov Web Studio offers services in website development and promotion. We develop turnkey lendings, online stores and corporate websites. We carry out SEO-optimization and contextual advertising.",
-    "keywords1": "web site development studio, henkov web studio, henkov web studio, website, websites, website for a company, I want a website, website development, website development Krasnodar, website development in Krasnodar, website development Moscow, website development in Moscow, website development MSK, website development in MSK, website development msk, website development in MKS, website development KRD, website development in KRD, buy website, order website, order website MSK, order website KRD? website development, web development, custom website development, turnkey website development, turnkey website design, website design development, website development and promotion, order website development, website creation and development, website development cost, internet website development, company website development, website development jobs, technical website development, website development services, website development example, website development brief, website development stages, technical specification for website development, development of 1 website, web development, HTML website development, website development cost, website development topic, turnkey website development Moscow, website development project, web design development for websites, official website development, development of 2 websites, website development system, online store development, enterprise website development, website development basics, website development in Moscow, website development studio, website form development, corporate website development, website creation and development services, example of a website development brief, custom website development, example technical specification for website development, website development list, personal website development, website development contract, CSS website development, organization website development, website development ru, advantages of website development, HTML web development, HTML CSS website development, Tilda website development, SEO website development, Bitrix website development, turnkey website development cost, website development information, turnkey website development cost, custom website development, HTML CSS web development, website and app development, website development cost, business-oriented website development, website development cost, essence of website development, high-quality website development, digital website development, website development cost Moscow, website development 3, educational resource websites, website development answers, e-commerce website development, website layout development, website development center, commercial website development, 1C website development, website development on credit, website development and maintenance, website development management, website development technologies, website development download, need website development, website development using, informational website development, website development St. Petersburg, development of 4 websites, mobile website development, possible website development, website development coursework, marketplace website development, website development St. Petersburg, web development and website creation, WordPress website development, turnkey website development cost Moscow, catalog website development, website development RF, website development process, turnkey website development cost Moscow, technical specification for website development, website content development, online website development, website development order, website development plan, website development St., website development from scratch, website development and SEO promotion, software website development, core website development, web app development, business card website development, website development questions, modern website development, diploma website development, business website development, website under development, website development agency, affordable website development, types of website development, database website development, website interface development, free website development, website development time, internet system website development, website development training, website development tasks, website development Krasnodar, search engine website development, web studio website development, website development advertising, website programming development, diploma project website development, HTTPS website development, website development samples, Bitrix website development, website development moeSEO RF, website development class, create website development, website network development, website development code, website development and SEO promotion Fortuna, catalog website development under key, custom website development, web development jobs, developed websites, website creation stages, sales website development, website development brief, website development types, website goals, developer websites, website builder development, new website development, Nova website development, website development analysis, DI Project website development, website creation, development, and promotion, beginner website development, LLC website development, lesson development websites, product website development, website development software, diploma work website development, Novosibirsk website development, sales website development, client website development, website development proposals, project web development, start website development, web development in Moscow, website development benefits, web development topics, top website development, quality website development, website development options, website text development, website development in Saint Petersburg, graduation project website development, website development quality, website search development, under construction website page, backend website development, ready-made website under development, website presentation development, graphic website development, medical website development, website purpose, website solutions, web development stages, website maintenance and support, Yekaterinburg website development, website layout stages, website development tools, chronological website development stages, educational website development, web promotion and web development, website development growth, frontend website development, Russian website development, website design and development, professional website development, advertising website development, school website development, Minsk website development, Tilda website development, website marketing development, website documentation development, website development acquisition, web page development, website and mobile app development, website development languages, simple website development, website components, website development tools, website structure development, high-quality website development, OKVED website development, software development website, website activity development, website section development, website development table, website development courses, web development software download, www website development, website article development, SEO website development, Center for Strategic Development website, website creation, development, and maintenance, chronological website development order, internet website development and promotion, website requirements development, website development methods, find website development, website development expenses, Tula website development, website development standards, proper website development, template-based website development, Studio website development, website development environment, order web development, website development sphere, website development companies, Novgorod website development, website description development, computer science website development, Center for Strategic Development official website, website development team, website design creation and development, website development necessity, service website development, website testing development, single-page website development, website development components, website development services, contest website development, website development research, internet website development, teacher website development, institution website development, website development companies, website development field, website development results, website design services, internet website creation, landing page development, your website development, company web development, marketplace website development cost, website development stages, website development platforms, Neya website development, teacher website development, our website development, write website development, client website development, completed website projects, complex website development, Nizhny website development, Tyumen website development, website style development, order website design development, internet app development, internet website design development, website development practice, graphical website design development, Samara website development, website optimization and development, website placement development, CMS website development, website development project topic, company internet website development, HTML-based website development, website development strategies, personal website development, website design and styling, web development technology, example technical specification for website development, Krasnoyarsk website development, P website development, website server development, website concept development, website development sources, language-based website development, Kaliningrad website development, website layout development, website Q&A development, practical website development, website development commercial proposal, PDF website development, company website development and promotion, website development contract sample, first website development, initial website development, website and logo development, St. Petersburg website development prices, website development resources, website user interface development, website development reviews, website development and promotion moeSEO RF, order turnkey website development, Moscow turnkey website development, website development plan creation, unique website development, branded website development, Ufa website development, cafe website development, corporate website creation and development, turnkey web development, Nizhny Novgorod website development, self-website development, needed web development, online store web development, website rights development, HTML-based website development, complex website development, web designer website development, social website development, website registration development, main website development, web development, promotion, and creation, full website development, web developer website development, IP website development, Moscow website development and promotion, Moscow web studio, Laravel website development, Belarus website development, website creation services, website development ideas, website definition, educational website development, Russian development website, website development element, starting website development, Tomsk website development, Minsk online store development, self-made website development, Novokuybyshevsk website development AmReach, web development process, Novelit website development, website development implementation, website development schemes, affordable turnkey website development, Minsk website development and promotion, HTML5 website development, precise website development, scientific website development, website functionality development, Rostov website development, construction website development, website development timeline, Moscow website development order, website development experience, web development coursework, additional website development, Agency website development, Kazan website development, web development and maintenance, website information system development, multi-page website development, WordPress website development, bot website development, website design stages, website section development, market website development, top company website development, main website development stages, website development features, interactive website development, website development course topics, open development websites, Moscow web development, business web development, web interface development, website security development, launching website development, web development and creation, website development term, website development images, computer development website, fast website development, Accent website development, delivery website development, website creation project, Almaty website development, buy website development, Chelyabinsk website development, informational web development, educational website development, freelance website development, design layout development, website prototype development, turnkey website creation, website development and promotion services, website development assistance, website design cost, website management and maintenance, marketing website development, website development stages, diploma web development, Yoshkar-Ola website development, web development PDF, website sitemap development, Voronezh website development, website portfolio development, web development book, quickest website development, contextual advertising website development, website introduction, website group development, teacher resource website, branded website style, Yandex website development, website development browser, website creation and development, website development model, company website development, Irkutsk website development, web development basics, children's website development, simple web development, offering website development, website purpose, website development levels, company website design development, website content filling, website development blogs, company website creation, internet development cost, programmer website development, website editor development, website integration, website M development, website development cost internet systems, Cheboksary website development, website development process stages, web development internet, Ivanovo website development, website contacts development, website algorithm development, website security development, Moscow turnkey web development, web development maintenance cost, Figma website development, web development stages, self-employed website development contract, web development coursework, web design and development, initial website development, Minsk company website development, real estate website development, OKPD website development, adaptive website development, website support and promotion, kindergarten website development, internet project website development, diploma website development topic, company website stages, restaurant website development, Vladivostok website development, children's website development, website under construction, turnkey website cost, web development languages, website development accounting, web development presentation, website planning development, website development activities, under construction website template, simplified tax system website expenses, JS website development, Rostov-on-Don website development, website structure and design, website development tenders, website design contract, website development services, NMA website development, future website development, OKVED for website development, UX website development, English website development, website patent development, brand and website development, web development cost, Haiku web development, medical center website development, website manager development, 2023 website development, e-commerce website creation, web development methods, web development platforms, web development example, website navigation development, turnkey sales website development, website textbooks development, web promotion developments, banner development website, website development cycles, website design services list, forum website development, Tilda website development cost, website development Tagil, website development invoice, website development coursework, top web developments, result-oriented website development, Izhevsk website development, student website development, design development process, large-scale website development, Novelit website development and promotion, zero-to-hero website development training, educational resource websites, website project stages, web development courses, website development guidelines, homepage development, St. Petersburg website promotion, NPO website development, budget website development, Sochi website development, Naberezhnye Chelny website development, website development photos, website development efficiency, Minsk website development order, diploma website development topic, Minsk e-commerce development, university website development, website development RU, website structure creation, website development books, website launch development, mobile version website development, classifieds website development, website design page development, corporate website cost, Bitrix website management development, turnkey web development, design concept development, search optimization development, website manager development, website development examples, modern website technologies, professional web development, e-commerce web development, website promotion project, insurance website design development, website development site, Belgorod website development, website development in Tashkent, Bitrix Moscow website development, affordable Minsk website development, website development tariff, Khanty-Mansiysk website development, website development basics, standard website development, website cost calculation, educational resource websites, web development services, order SEO website development, video website development, equipment website development, Volgograd website development, frontend website development, website development relevance, website design and layout, diploma web development, top 10 website companies, MODX website development, St. Petersburg website development, Stavropol website development, advertising and website development, website logic development, tax accounting website development, web app development, website literature development, social network website development, COM website development, Ilavista website development, teacher resource website, accounting website development, educational organization website development, Barnaul website development, website functionality development, Angular website development, website design cost, 11th grade website development, archive website development, Donetsk website development, web design and development, order internet website development, internet advertising development, website development evaluation, web server development, website profession development, web structure development, Avito website development, Nanosoft website development, web development jobs, web and mobile app development, turnkey website promotion, corporate web development, job website development, magazine website development, CMS development, website promotion strategy, website cost calculation, average website development cost, Nanosoft official website, museum website development, website design and promotion, Irsha Mining College website, 3D website development, dual website development, detailed website development, web development environment, Astafiev Mining College website, Vue website development, SEO website promotion, production website development, college website development, website cabinet development, website development issues, master website development, VAT website development, website technical support, Tver website development, website script development, Python website development, web development plan, secure website development, Yoshkar-Ola website development, university website development, why website development, free website courses, Empathic Studio website development, primary teacher website development, Moscow Novelit website development, sports website development, create adaptive websites, website creation on WordPress, website creation and promotion, website design cost Moscow NSoptima, order company website development, order MoeSEO RF website development, website development icons, free online website development, website design software, simple web project, Russian echolab website development, cartoon factory website development, online school website development, WordPress CMS development, Moscow NSoptima website development, Vladimir website development, website taxes, Agency turnkey website development, Moscow web studio website development, Kharkiv website development, website under construction, business card website creation, website trends, website design stages, website development promotions, web development process components, Moscow web development, website development companies, website development price list, example technical specification, company web development, multi-page turnkey website, website support and promotion, dentistry website development, residential complex website development, Libercode company website stages, Bitrix digital development, MoeSEO RF Bitrix development, website server development, graphing website development, Django website development, educational program website development, website development agreement, website design help, corporate website cost internet systems, sales website cost, St. Petersburg Kontur website development, Kurgan website development, Saransk website development, unique website design, lesson plan websites, diploma website project, Empathic Studio key development, website development subject, website process stages, promo website development, auto parts website development, aggregator website development, clinic website development, SEO order website development, Empathic Studio turnkey development, clean code website development, web development cost, WordPress website cost, website contract template, your business website development, Agency website order, Tilda website order, website proposal sample, full-cycle website development, online website design, website parsers development, accounting and tax website development, clothing store website development, website licensing, Majetec website development, local website development, web design creation, website development meaning, website business plan, beautiful website development, correct website development order, custom web development, St. Petersburg website promotion, Kazakhstan website development, food delivery website development, student website development, Roman Trifonenko website order, Orbitsoft website development, Dmitry website development, learn website development, free website development training, website translation, Khabarovsk website development, CMS development system, Elena Beletskaya math resources, Bitrix website creation, affordable website creation, Grozny website studio, page development cost, website development OKPD2, freelance website orders, Aspro website development, web studio cost, earn through website development, simplify website development, quality website creation, web development company, F Plus Equipment website, first web development stage, website development practical, Svetsova web cost, unique web development, Di Project design, Team Shark website promotion, ASP.NET website development, Grodno website development, Yekaterinburg website cost, Kuznetsk website development, Mogilev website development, family website informatics, website from scratch cost, digital Rex website development, Saratov landing page development, Moscow Di Project website, Moscow website company, Saratov landing page development, Tagil website development, website development accounting, HTML CSS JS development, contextual ads development, website introduction, group website development, teacher resource websites, Yandex browser development, website creation and design, website model development, company website development, Irkutsk website basics, children's website, simple web project, offering website services, website purpose, development levels, company design development, content filling, development blogs, company creation, internet cost, programmer site, editor development, integration, M development, internet costs, Cheboksary process stages, web internet, Ivanovo contacts, algorithm security, Moscow turnkey, web maintenance cost, Figma stages, self-employed contract, web coursework, design and development, initial sites, Minsk company, real estate OKPD, adaptive support, kindergarten projects, diploma topic, company stages, restaurant Vladivostok, children's under construction, turnkey cost, web languages, accounting presentation, planning activities, under construction template, simplified taxes, JS Rostov-on-Don, structure design, tenders design, NMA future, OKVED UX, English patents, brand cost, Haiku medical, manager 2023, e-commerce methods, platforms example, navigation sales, textbooks promotion, banner cycles, design list, forum Tilda, Tagil invoice, coursework top, result Izhevsk, student design, large Novelit, zero-to-hero resources, project courses, guidelines homepage, St. Petersburg NPO, budget Sochi, Naberezhnye photos, efficiency Minsk, diploma topic, Minsk e-commerce, university RU, structure books, launch mobile, classifieds design, corporate Bitrix, turnkey concept, search manager, examples modern, professional e-commerce, project insurance, site Belgorod, T",
-
-    "title2": "About Henkov Web Design Agency - A Team of Professionals",
-    "titleOpenGraph2": "About Henkov web studio - a team of professionals",
-    "description2": "Find out more about Henkov Web Studio. We are a team of experienced professionals who create effective websites and help businesses grow online. Our mission is to make internet projects that customers will be proud of.",
-    "descriptionOpenGraph2": "Find out more about Henkov Web Studio. We are a team of experienced professionals who create effective websites and help businesses grow online. Our mission is to make internet projects that customers will be proud of.",
-    "keywords2": "about our web design agency, meet our marketing-driven web development team, professional web designers for business success, our mission: creating websites that sell, experienced web developers focused on conversions, innovative web solutions for modern businesses, dedicated team of digital marketing experts, how we build high-converting websites, our approach to effective web design and marketing, why choose us for your web development needs, our success stories in web design and marketing, passionate about creating user-friendly websites, committed to delivering results-driven web solutions, our expertise in e-commerce and lead generation, building brands through strategic web design, our vision for impactful online presence, collaborative approach to web development, enhancing user experience for better engagement, our values: creativity, innovation, and results, testimonials from satisfied clients."
   }
 }
